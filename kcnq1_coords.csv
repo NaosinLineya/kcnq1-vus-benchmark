@@ -1,0 +1,48 @@
+name,clinvar_label,chrom,pos,ref,alt
+NM_000218.3(KCNQ1):c.514G>A (p.Val172Met),Benign,11,2570664,G,A
+NM_000218.3(KCNQ1):c.1343C>G (p.Pro448Arg),Benign,11,2588804,C,G
+NM_000218.3(KCNQ1):c.1927G>A (p.Gly643Ser),Benign,11,2847899,G,A
+NM_000218.3(KCNQ1):c.1942G>C (p.Val648Leu),Benign,11,2847914,G,C
+NM_000218.3(KCNQ1):c.137C>A (p.Ala46Glu),Likely benign,11,2445235,C,A
+NM_000218.3(KCNQ1):c.184G>A (p.Ala62Thr),Likely benign,11,2445282,G,A
+NM_000218.3(KCNQ1):c.458C>T (p.Thr153Met),Likely benign,11,2527999,C,T
+NM_000218.3(KCNQ1):c.619G>A (p.Val207Met),Likely benign,11,2571339,G,A
+NM_000218.3(KCNQ1):c.1179G>C (p.Lys393Asn),Likely benign,11,2587620,G,C
+NM_000218.3(KCNQ1):c.1249G>A (p.Val417Met),Likely benign,11,2587690,G,A
+NM_000218.3(KCNQ1):c.1252G>A (p.Val418Ile),Likely benign,11,2588713,G,A
+NM_000218.3(KCNQ1):c.1338C>A (p.Asp446Glu),Likely benign,11,2588799,C,A
+NM_000218.3(KCNQ1):c.332A>G (p.Tyr111Cys),Pathogenic,11,2445430,A,G
+NM_000218.3(KCNQ1):c.704T>A (p.Ile235Asn),Pathogenic,11,2572033,T,A
+NM_000218.3(KCNQ1):c.1022C>A (p.Ala341Glu),Pathogenic,11,2583535,C,A
+NM_000218.3(KCNQ1):c.1078A>G (p.Arg360Gly),Pathogenic,11,2585257,A,G
+NM_000218.3(KCNQ1):c.557G>T (p.Gly186Val),Pathogenic,11,2570707,G,T
+NM_000218.3(KCNQ1):c.835T>A (p.Phe279Ile),Pathogenic,11,2572900,T,A
+NM_000218.3(KCNQ1):c.775C>G (p.Arg259Gly),Pathogenic,11,2572104,C,G
+NM_000218.3(KCNQ1):c.973G>C (p.Gly325Arg),Pathogenic,11,2583486,G,C
+NM_000218.3(KCNQ1):c.1766G>A (p.Gly589Asp),Pathogenic,11,2778009,G,A
+NM_000218.3(KCNQ1):c.1138A>T (p.Arg380Trp),Pathogenic,11,2587579,A,T
+NM_000218.3(KCNQ1):c.518T>A (p.Val173Asp),Pathogenic,11,2570668,T,A
+NM_000218.3(KCNQ1):c.1669A>G (p.Lys557Glu),Pathogenic,11,2776038,A,G
+NM_000218.3(KCNQ1):c.947G>A (p.Gly316Glu),Pathogenic,11,2583460,G,A
+NM_000218.3(KCNQ1):c.913T>A (p.Trp305Arg),Pathogenic,11,2572978,T,A
+NM_000218.3(KCNQ1):c.1760C>T (p.Thr587Met),Pathogenic,11,2778003,C,T
+NM_000218.3(KCNQ1):c.64G>C (p.Gly22Arg),Uncertain significance,11,2445162,G,C
+NM_000218.3(KCNQ1):c.1720A>G (p.Ile574Val),Uncertain significance,11,2777020,A,G
+NM_000218.3(KCNQ1):c.1445C>A (p.Thr482Asn),Uncertain significance,11,2662012,C,A
+NM_000218.3(KCNQ1):c.1888C>T (p.Pro630Ser),Uncertain significance,11,2847860,C,T
+NM_000218.3(KCNQ1):c.1321C>T (p.Pro441Ser),Uncertain significance,11,2588782,C,T
+NM_000218.3(KCNQ1):c.2021A>T (p.Glu674Val),Uncertain significance,11,2847993,A,T
+NM_000218.3(KCNQ1):c.1831G>A (p.Asp611Asn),Uncertain significance,11,2847803,G,A
+NM_000218.3(KCNQ1):c.1449C>G (p.Asn483Lys),Uncertain significance,11,2662016,C,G
+NM_000218.3(KCNQ1):c.1377C>G (p.Asp459Glu),Uncertain significance,11,2588838,C,G
+NM_000218.3(KCNQ1):c.607C>G (p.Leu203Val),Uncertain significance,11,2571327,C,G
+NM_000218.3(KCNQ1):c.209C>T (p.Pro70Leu),Uncertain significance,11,2445307,C,T
+NM_000218.3(KCNQ1):c.392T>C (p.Leu131Pro),Uncertain significance,11,2527933,T,C
+NM_000218.3(KCNQ1):c.461G>T (p.Gly154Val),Uncertain significance,11,2528002,G,T
+NM_000218.3(KCNQ1):c.1327A>G (p.Ile443Val),Uncertain significance,11,2588788,A,G
+NM_000218.3(KCNQ1):c.559C>T (p.Leu187Phe),Uncertain significance,11,2570709,C,T
+NM_000218.3(KCNQ1):c.352A>C (p.Thr118Pro),Uncertain significance,11,2445450,A,C
+NM_000218.3(KCNQ1):c.575G>T (p.Arg192Leu),Uncertain significance,11,2570725,G,T
+NM_000218.3(KCNQ1):c.1715T>C (p.Leu572Pro),Uncertain significance,11,2777015,T,C
+NM_000218.3(KCNQ1):c.1654C>A (p.Leu552Ile),Uncertain significance,11,2776023,C,A
+NM_000218.3(KCNQ1):c.470T>G (p.Phe157Cys),Uncertain significance,11,2528011,T,G
